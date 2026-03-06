@@ -120,9 +120,11 @@ function mutex:unlock()
 			self.owner = next_node.thread
 			task.defer(coroutine.resume, next_node.thread)
 		else
+			self.owner = nil
 			self.locked = false
 		end
 	else
+		self.owner = nil
 		self.locked = false
 	end
 end
