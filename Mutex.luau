@@ -15,7 +15,7 @@ https://github.com/wirlypirly12/Mutex
 --------------------------------------------------------------------------------
 MIT License
 
-Copyright (c) 2025 wirlypirly12
+Copyright (c) 2026 wirlypirly12
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
